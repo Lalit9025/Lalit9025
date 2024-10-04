@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **MERN Stack Development**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **l_chouhan@me.iitr.ac.in**
 
