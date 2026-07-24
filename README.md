@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lalit Chouhan</h1>
-<h3 align="center">Associate Software Development Engineer | Backend & Full Stack Developer</h3>
+<h3 align="center">Associate Software Development Engineer | Backend Developer</h3>
 
 
 <p align="left">
