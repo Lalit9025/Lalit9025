@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lalit Chouhan</h1>
 <h3 align="center">Associate Software Development Engineer | Backend & Full Stack Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"/>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=lalitchouhan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
@@ -83,36 +82,6 @@
 - Docker
 - AWS
 - Message Queues
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Lalit9025&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lalit9025&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalit9025&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# ⚙️ Interests
-
-- Backend Engineering
-- Microservices
-- Distributed Systems
-- Event-Driven Architecture
-- System Design
-- High Performance APIs
-- Redis
-- AWS
-- Scalable Applications
 
 ---
 
