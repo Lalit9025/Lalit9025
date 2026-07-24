@@ -11,10 +11,9 @@
 
 - 💼 Associate Software Development Engineer @ **The Souled Store**
 - 🔭 Building scalable backend systems and microservices
-- 🌱 Currently learning **Distributed Systems, Kubernetes & System Design**
-- 💬 Ask me about **Node.js, TypeScript, Redis, Express.js, AWS, Microservices**
+- 🌱 Currently learning **Distributed Systems & System Design**
+- 💬 Ask me about **Node.js, TypeScript, Python, Django, Redis, SQL, Microservices**
 - 📫 Reach me at **lalit3chouhan@gmail.com**
-- ⚡ Fun fact: I enjoy optimizing systems more than building them from scratch.
 
 ---
 
@@ -29,7 +28,7 @@
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<a href="https://github.com/lalit3chouhan">
+<a href="https://github.com/Lalit9025">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 </p>
@@ -76,72 +75,13 @@
 
 ---
 
-# 🚀 Professional Highlights
-
-✅ Unified **3 legacy backend services** into a single scalable service
-
-✅ Built **Hyperlocal Store Fulfillment System** serving **25+ stores**
-
-✅ Designed a **Redis Pub/Sub + SSE** based real-time notification system
-
-✅ Built a purchase-event pipeline handling **40K+ orders**
-
-✅ Sole owner of the Point-of-Sale platform
-
----
-
-# 🚀 Featured Projects
-
-## 🚀 Deployment Engine
-
-A Vercel-inspired deployment platform built using **Node.js, TypeScript, AWS S3 and Redis**.
-
-### Features
-
-- Git Repository Upload
-- Build Queue using Redis
-- Automated Deployments
-- Static File Hosting
-- Modular Microservice Architecture
-
----
-
-## 🎨 AI Image Generator
-
-Generate AI images using **OpenAI DALL-E API**.
-
-### Features
-
-- AI Image Generation
-- Cloudinary Integration
-- Community Feed
-- Prompt Search
-- User Search
-
----
-
-## 💬 Chatbot Dashboard
-
-Real-time dashboard for monitoring chatbot interactions.
-
-### Features
-
-- Live Analytics
-- Streaming Responses using SSE
-- WhatsApp Insights
-- OpenAI Function Calling
-
----
-
 # 🌱 Currently Exploring
 
 - Distributed Systems
 - Event Driven Architecture
 - System Design
-- Kubernetes
 - Docker
 - AWS
-- Redis Internals
 - Message Queues
 
 ---
