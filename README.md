@@ -102,14 +102,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=lalit3chouhan&theme=tokyonight&margin-w=15&margin-h=15"/>
-</p>
-
----
-
 # ⚙️ Interests
 
 - Backend Engineering
@@ -121,14 +113,6 @@
 - Redis
 - AWS
 - Scalable Applications
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lalit3chouhan&theme=tokyo-night"/>
-</p>
 
 ---
 
